@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анастасия Балашова](https://up.htmlacademy.ru/javascript/17/user/374857).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Якушкин](https://htmlacademy.ru/profile/id126208).
 
 ---
 
